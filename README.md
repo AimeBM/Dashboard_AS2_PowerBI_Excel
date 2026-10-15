@@ -1,2 +1,2 @@
-# Dasboard_AS2_PowerBI_Excel
-Conception d’un tableau de bord de vente pour optimiser les performances d'une équipe commerciale au sein d'une entreprise. Le tableau de bord regroupe les indicateurs de performance nécessaires pour évaluer et améliorer les résultats de  l'équipe développés sous Excel et Power BI. 
+# Dashboard_AS2_PowerBI_Excel : Conception d’un tableau de bord commercial sous Excel et Power BI
+Conception et développement d’un tableau de bord interactif regroupant les principaux indicateurs clés de performance (KPI) commerciaux afin de suivre les ventes, d’évaluer les performances de l’équipe commerciale, d’identifier les axes d’amélioration et de faciliter la prise de décision. L’outil permet de visualiser les résultats et de piloter plus efficacement l’activité commerciale.
